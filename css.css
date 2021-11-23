@@ -1,17 +1,13 @@
 .container {
     background-color: #ffff;
-    box-shadow: 0 0 10px #424381;
+    box-shadow: 0 0 10px #333333;
     padding: 15px;
-}
-
-.espacooo {
-    margin-top: 3%;
 }
 
 #menu ul {
     padding: 0px;
     margin: 0px;
-    background-color: black;
+    background-color: #333333;
     list-style: none;
     text-align: center;
 }
@@ -30,4 +26,9 @@
 
 #menu ul li a:hover {
     border-bottom: 3px solid #EA0000;
+}
+
+.footer {
+    margin-top: 50%;
+    margin-left: 35%;
 }
